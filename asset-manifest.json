@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-img-to-txt/static/css/main.cae606fd.css",
+    "main.js": "/react-img-to-txt/static/js/main.34eaf4c6.js",
+    "index.html": "/react-img-to-txt/index.html",
+    "main.cae606fd.css.map": "/react-img-to-txt/static/css/main.cae606fd.css.map",
+    "main.34eaf4c6.js.map": "/react-img-to-txt/static/js/main.34eaf4c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cae606fd.css",
+    "static/js/main.34eaf4c6.js"
+  ]
+}
